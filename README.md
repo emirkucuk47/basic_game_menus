@@ -1,2 +1,2 @@
 # my_beginner_projects
-This repository is opened to share my projects with everyone to achieve a mutual knowledge, learn and if possible, teach new things. 
+I do not own scripts in the "Starfield Skybox/Demo" folder and I did not use them in this project. 
